@@ -18,4 +18,3 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil-Abraham)](https://github.com/Nikhil-Abraham/github-readme-stats)
 
-[![covid-tracker](https://github-readme-stats.vercel.app/api/pin/?username=Nikhil-Abraham&repo=covid-tracker)](https://github.com/Nikhil-Abraham/covid-tracker)
