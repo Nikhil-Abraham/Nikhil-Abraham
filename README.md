@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 
 [![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nikhil-Abraham)](https://github.com/Nikhil-Abraham/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil-Abraham)](https://github.com/Nikhil-Abraham/github-readme-stats)
 
 [![covid-tracker](https://github-readme-stats.vercel.app/api/pin/?username=Nikhil-Abraham&repo=covid-tracker)](https://github.com/Nikhil-Abraham/covid-tracker)
