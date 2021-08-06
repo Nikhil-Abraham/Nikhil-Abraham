@@ -12,7 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<img src="https://raw.githubusercontent.com/<OWNER>/<OWNER>/master/<GIF_NAME>.gif" width="30px">
 
 
 [![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nikhil-Abraham)](https://github.com/Nikhil-Abraham/github-readme-stats)
