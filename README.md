@@ -1,49 +1,26 @@
 # Nikhil Abraham
 
-Backend engineer focused on distributed systems, APIs, and infrastructure.
-
-Currently working on:
-- TokenFlow — rate limiting algorithms in TypeScript
-- Energy grid event orchestration systems
-- Learning deeper system design and distributed architectures
+Engineer building software systems, tools, and infrastructure.  
+Currently exploring backend architecture, distributed systems concepts, and developer tooling.
 
 ---
 
-## Projects
+## Current Projects
 
-### TokenFlow
-A TypeScript implementation of rate limiting algorithms including Token Bucket.
+- **TokenFlow** — TypeScript rate limiting library (token bucket algorithm)  
+  https://github.com/username/token-flow
 
-Focus:
-- lazy refill token bucket
-- extensible architecture for multiple algorithms
-- backend infrastructure patterns
+- **MoveMouse** — lightweight utility that prevents system idle by periodically moving the cursor  
+  https://github.com/username/move-mouse
 
-Repo: https://github.com/username/token-flow
+- **ERP Systems** — internal tooling and workflow automation experiments  
+  https://github.com/username/erp-system
 
----
-
-## Tech I Work With
-
-Languages:
-- TypeScript
-- JavaScript
-
-Backend:
-- Node.js
-- MongoDB
-- AWS (Lambda, ECS)
+- **DLM Systems** — data lifecycle management tooling and infrastructure experiments  
+  https://github.com/username/dlm-system
 
 ---
 
-## Currently Learning
+## Notes
 
-- Distributed systems
-- Infrastructure design
-- performance optimization
-
----
-
-## Contact
-
-LinkedIn: …
+Most repositories here are experimental projects, infrastructure tooling, or algorithm implementations built while learning and exploring system design concepts.
