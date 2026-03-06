@@ -7,17 +7,12 @@ Currently exploring backend architecture, distributed systems concepts, and deve
 
 ## Current Projects
 
-- **TokenFlow** — TypeScript rate limiting library (token bucket algorithm)  
-  https://github.com/username/token-flow
+- [**TokenFlow**](https://github.com/Nikhil-Abraham/token-flow) — TypeScript rate limiting library (token bucket algorithm)  
+- [**MoveMouse**](https://github.com/Nikhil-Abraham/move-mouse) — lightweight utility that prevents system idle by periodically moving the cursor  
+- [**ERP Systems**](https://github.com/Nikhil-Abraham/fuel-station-erp) — internal tooling and workflow automation experiments  
+- [**DLM Systems**](https://github.com/Nikhil-Abraham/DLM_System) — data lifecycle management tooling and infrastructure experiments
+- [**Duplicate Finder**](https://github.com/Nikhil-Abraham/duplicate_finder) — Tool to sort and check for duplicate media files
 
-- **MoveMouse** — lightweight utility that prevents system idle by periodically moving the cursor  
-  https://github.com/username/move-mouse
-
-- **ERP Systems** — internal tooling and workflow automation experiments  
-  https://github.com/username/erp-system
-
-- **DLM Systems** — data lifecycle management tooling and infrastructure experiments  
-  https://github.com/username/dlm-system
 
 ---
 
