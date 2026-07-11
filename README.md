@@ -7,6 +7,7 @@ Currently exploring backend architecture, distributed systems concepts, and deve
 
 ## Current Projects
 
+- [**HopScotch**](https://github.com/Nikhil-Abraham/hopscotch) - TraceRoute visualizer
 - [**TokenFlow**](https://github.com/Nikhil-Abraham/token-flow) — TypeScript rate limiting library (token bucket + Sliding Window Log algorithm)  
 - [**ERP Systems**](https://github.com/Nikhil-Abraham/fuel-station-erp) — internal tooling and workflow automation experiments  
 - [**DLM Systems**](https://github.com/Nikhil-Abraham/DLM_System) — data lifecycle management tooling and infrastructure experiments
